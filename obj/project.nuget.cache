@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZllF+UmJuFr3MxDOW6uNLmWg/m1Y4XuI88Z/TW17Pb7mT883HpI64yI7slhbNClAcNCqRdMNRA6Va5DzZaSJkA==",
+  "dgSpecHash": "60ciAD08cY/YGA07o2s3NELq5g3OBw14bWpubWxoV9lLUQBhva1BCuXH1j/CbG64dxq8/ZtDGjJ7cz80OpezbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\swapn\\source\\repos\\LearningNewSkills\\LearningNewSkills.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\swapn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
